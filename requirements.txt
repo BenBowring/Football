@@ -2,4 +2,3 @@ pandas
 numpy
 sklearn
 matplotlib
-mpl_toolkits
