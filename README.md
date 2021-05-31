@@ -1,5 +1,4 @@
-# Football
-Football Visualisation Project
+# Football Visualisation Project
 
 Please click the Binder Link below to load a fully interactable Jupyter Notebook in your browser.
 
