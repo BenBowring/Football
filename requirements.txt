@@ -2,3 +2,6 @@ pandas
 numpy
 sklearn
 matplotlib
+itertools
+random
+jdc
